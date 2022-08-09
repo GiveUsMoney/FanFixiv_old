@@ -38,5 +38,6 @@
  * [기능 명세서](FD.md)
  * [화면 설계서](PAGE.md)
  * [정보 구조도](PROCESS.md)
+ * [일정 관리 문서](GOAL.md)
  * [DB 구조도](DB.md)
  * [서비스 구조도](SERVICE.md)
