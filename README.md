@@ -42,7 +42,7 @@
 
  * [API 문서](API.md)
  * [DB 구조도](DB.md)
- * [일정 관리 문서](GOAL.md)
+ * [일정 관리 문서](MILESTONE.md)
  * [서비스 구조도](SERVICE.md)
  * [백엔드 개발 설계서](BACKEND.md)
  * [프론트엔드 개발 설계서](FRONTEND.md)
