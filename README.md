@@ -31,17 +31,21 @@
 |------|---|---|---|
 |**PM**|[로하루이(Roharui)](https://github.com/Roharui)|김태윤|**`전부`**|
 
-## 관련 문서
+## 기획 관련 문서
 
- * [프론트엔드 개발 기획서](FRONTEND.md)
- * [백엔드 개발 기획서](BACKEND.md)
  * [기능 명세서](FS.md)
  * [화면 설계서](PAGE.md)
  * [정보 구조도](PROCESS.md)
- * [일정 관리 문서](GOAL.md)
- * [DB 구조도](DB.md)
- * [서비스 구조도](SERVICE.md)
  * [프로젝트 리스크 정리](RISK.md)
+
+## 개발 관련 문서
+
+ * [API 문서](API.md)
+ * [DB 구조도](DB.md)
+ * [일정 관리 문서](GOAL.md)
+ * [서비스 구조도](SERVICE.md)
+ * [백엔드 개발 설계서](BACKEND.md)
+ * [프론트엔드 개발 설계서](FRONTEND.md)
 
  ## 페기된 문서
  
