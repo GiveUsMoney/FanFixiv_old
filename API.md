@@ -7,19 +7,19 @@
 
 > AWS EC2로 배포되어 있습니다. 자동배포가 설정되어 있습니다.
 
-https://aumlaytno6.execute-api.ap-northeast-2.amazonaws.com/auth
+https://aumlaytno6.execute-api.ap-northeast-2.amazonaws.com/auth/swagger-ui.html
 
 ## 업로드 개발 서버
 
 > AWS EC2로 배포되어 있습니다. 자동배포가 설정되어 있습니다.
 
-https://aumlaytno6.execute-api.ap-northeast-2.amazonaws.com/upload
+https://aumlaytno6.execute-api.ap-northeast-2.amazonaws.com/upload/api
 
 ## 관리자 개발 서버
 
 > AWS EC2로 배포되어 있습니다. 자동배포가 설정되어 있습니다.
 
-https://aumlaytno6.execute-api.ap-northeast-2.amazonaws.com/admin
+https://aumlaytno6.execute-api.ap-northeast-2.amazonaws.com/admin/docs
 
 ## 검색 서버
 

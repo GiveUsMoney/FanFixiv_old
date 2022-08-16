@@ -27,9 +27,9 @@
 
 > 신입이라면 **무조건** [팀원 관련 문서](https://github.com/GiveUsMoney/TEAM)를 읽어주세요
 
-|직책|닉네임|이름|맡은일|
+|직책|닉네임|맡은일|
 |------|---|---|---|
-|**PM**|[로하루이(Roharui)](https://github.com/Roharui)|김태윤|**`전부`**|
+|**PM**|[로하루이(Roharui)](https://github.com/Roharui)|**`전부`**|
 
 ## 기획 관련 문서
 
