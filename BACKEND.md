@@ -50,6 +50,12 @@
 4. AWS Lambda
     - 필요 API가 많아 적합하지 않음.
 
+**관리자 서버**
+1. Spring Boot
+2. Node계열
+3. Python (선택)
+4. AWS Lambda
+
 **검색 서버**
 1. Spring Boot
 2. Node계열
