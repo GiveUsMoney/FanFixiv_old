@@ -27,9 +27,15 @@
 
 > 신입이라면 **무조건** [팀원 관련 문서](https://github.com/GiveUsMoney/TEAM)를 읽어주세요
 
-|직책|닉네임|맡은일|
-|------|---|---|
-|**PM**|[로하루이(Roharui)](https://github.com/Roharui)|**전부**|
+|직책|닉네임|
+|---|---|
+|**PM**|[로하루이(Roharui)](https://github.com/Roharui)|
+|FE|[이연권](https://github.com/dalcon10028 )|
+|FE|[방구석토템](https://github.com/akswnd98)|
+|FE|[슬기](https://github.com/abcabcp)|
+|BE|[그냥개발자](https://github.com/shinyangdevelop)|
+|BE|[수현](https://github.com/suhyun96)|
+|DESIGN|[구지영](https://github.com/GuJiYeong)|
 
 ## 기획 관련 문서
 
