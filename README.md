@@ -34,25 +34,8 @@
 |FE|[방구석토템](https://github.com/akswnd98)|
 |FE|[슬기](https://github.com/abcabcp)|
 |BE|[그냥개발자](https://github.com/shinyangdevelop)|
-|BE|[수현](https://github.com/suhyun96)|
 |DESIGN|[구지영](https://github.com/GuJiYeong)|
 
-## 기획 관련 문서
+## 문서 일람
 
- * [기능 명세서](FS.md)
- * [화면 설계서](PAGE.md)
- * [정보 구조도](PROCESS.md)
- * [프로젝트 리스크 정리](RISK.md)
-
-## 개발 관련 문서
-
- * [API 문서](API.md)
- * [DB 구조도](DB.md)
- * [일정 관리 문서](MILESTONE.md)
- * [서비스 구조도](SERVICE.md)
- * [백엔드 개발 설계서](BACKEND.md)
- * [프론트엔드 개발 설계서](FRONTEND.md)
-
- ## 페기된 문서
- 
- * [(구) 기능 명세서](FD.md)
+문서의 경우 [SimpleNote](https://app.simplenote.com/)에 정리되어있습니다.
