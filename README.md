@@ -23,19 +23,6 @@
 - 프로젝트 마감일자는 **12.30**입니다.
 - 서비스 일정은 아직 정해지지 않았습니다.
 
-## 팀원
-
-> 신입이라면 **무조건** [팀원 관련 문서](https://github.com/GiveUsMoney/TEAM)를 읽어주세요
-
-|직책|닉네임|
-|---|---|
-|**PM**|[로하루이(Roharui)](https://github.com/Roharui)|
-|FE|[이연권](https://github.com/dalcon10028 )|
-|FE|[방구석토템](https://github.com/akswnd98)|
-|FE|[슬기](https://github.com/abcabcp)|
-|BE|[그냥개발자](https://github.com/shinyangdevelop)|
-|DESIGN|[구지영](https://github.com/GuJiYeong)|
-
 ## 문서 일람
 
 문서의 경우 [SimpleNote](https://app.simplenote.com/)에 정리되어있습니다.
